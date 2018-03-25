@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lager on Pionjärerna</title>
+    <link>//pionjar.se/lager/</link>
+    <description>Recent content in Lager on Pionjärerna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pionjar.se/lager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sommarläger</title>
+      <link>//pionjar.se/lager/2018/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/lager/2018/</guid>
+      <description>Årets Pionjärläger går av stapeln den 13-18 augusti på Issjö lägergård utanför Bergshamra.
+På Pionjärlägret sover du i tält med dina kompisar, lagar god mat över öppen eld, badar, upplever spännande äventyr, löser kluriga uppgifter och testar roliga utmaningar.
+Varje kväll har vi lägerbål vid stranden och härliga Jesus-möten i kapellet.
+Alla som gått ut åk 4 är välkomna – även du som inte är Pionjär till vardags.
+Mer information kommer inom kort.</description>
+    </item>
+    
+  </channel>
+</rss>
